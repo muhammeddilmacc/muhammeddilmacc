@@ -15,8 +15,6 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
-<br/>
-
 
 ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-000.svg?style=plastic&logo=java&logoColor=007396)
 ![MYSQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?&style=plastic&logo=database&logoColor=025E8C)
@@ -30,12 +28,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br/>
+
 ---
 
 ### 📺 Contact Me
 
-<br/>
 <a href="https://twitter.com/muhammeddilmacc"><img width="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"/></a>&ensp;&ensp;
 <a 
   href="https://www.linkedin.com/in/muhammeddilmac/">
