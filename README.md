@@ -1,13 +1,16 @@
 ### Hi there, I am Muhammed 👋
 
-- ✍️ I’m a **Software developer**
+<br/>
+<br/>
+
+- ✍️ I’m a **Software Engineer**
 - 🔭 I’m currently working on **Nodejs** and **Mongodb**.
 - 💡 I like to explore new technologies and develop software solutions.
 - 🎓 I’m currently studying Computer Science at the **Işık university in Istanbul Turkey**.
 - ✉️ You can send me an email at muhammeddilmacc@gmail.com ! I'll try to respond as soon as I can.
 - 📄 Please have a look at my [Resume](https://drive.google.com/file/) for more details about me. I'm open to feedback and suggestions!
 
----
+<p align="left">
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -24,16 +27,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
----
+<p align="left">
 
 ### 📺 Contact Me
 
-<a href="https://twitter.com/muhammeddilmacc"><img width="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"/></a>&ensp;
+<a href="https://twitter.com/muhammeddilmacc"><img width="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"/></a>&ensp;&ensp;
 <a 
   href="https://www.linkedin.com/in/muhammeddilmac/">
 <img width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>&ensp;
+</a>&ensp;&ensp;
 <a href="mailto:muhammeddilmacc@gmail.com">
 <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>&ensp;
-
+</a>&ensp;&ensp;
