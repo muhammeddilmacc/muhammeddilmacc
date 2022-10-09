@@ -28,7 +28,7 @@
 
 ### 📺 Contact Me
 
-<a href="https://twitter.com/muhammeddilmacc"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"/></a>
+<a href="https://twitter.com/muhammeddilmacc"><img width="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"/></a>&ensp;
 <a 
   href="https://www.linkedin.com/in/muhammeddilmac/">
 <img width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
@@ -36,3 +36,4 @@
 <a href="mailto:muhammeddilmacc@gmail.com">
 <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>&ensp;
+
