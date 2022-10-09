@@ -1,13 +1,11 @@
 ### Hi there, I am Muhammed 👋
 
-### 👨🏻‍💻 &nbsp;About Me
-
-- ✍️  I’m a Software developer
-- 🔭  I’m currently working on Nodejs and Mongodb.
-- 💡  I like to explore new technologies and develop software solutions.
-- 🎓  I’m currently studying Computer Science at the Işık university in Istanbul Turkey.
-- ✉️  You can send me an email at muhammeddilmacc@gmail.com ! I'll try to respond as soon as I can.
-- 📄  Please have a look at my [Resume](https://drive.google.com/file/) for more details about me. I'm open to feedback and suggestions!
+I’m a Software developer
+I’m currently working on Nodejs and Mongodb.
+I like to explore new technologies and develop software solutions.
+I’m currently studying Computer Science at the Işık university in Istanbul Turkey.
+You can send me an email at muhammeddilmacc@gmail.com ! I'll try to respond as soon as I can.
+Please have a look at my [Resume](https://drive.google.com/file/) for more details about me. I'm open to feedback and suggestions!
 
 ---
 
@@ -35,5 +33,4 @@
 <a href="mailto:muhammeddilmacc@gmail.com">
 <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>&ensp;
-
 
