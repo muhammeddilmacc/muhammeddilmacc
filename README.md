@@ -10,7 +10,6 @@
 - ✉️ You can send me an email at muhammeddilmacc@gmail.com ! I'll try to respond as soon as I can.
 - 📄 Please have a look at my [Resume](https://drive.google.com/file/) for more details about me. I'm open to feedback and suggestions!
 
----
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
