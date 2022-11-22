@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+### 🚀 &nbsp;Languages and Tools:
 <p align="left">
 
 
@@ -34,7 +34,8 @@
 <br/>
 <br/>
 
-### 📺 Contact Me
+### Get Contact
+<p align="left">
 
 <a href="https://twitter.com/muhammeddilmacc"><img width="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"/></a>&ensp;&ensp;
 <a 
