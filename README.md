@@ -10,6 +10,8 @@
 - ✉️ You can send me an email at muhammeddilmacc@gmail.com ! I'll try to respond as soon as I can.
 - 📄 Please have a look at my [Resume](https://drive.google.com/file/) for more details about me. I'm open to feedback and suggestions!
 
+<br/>
+<br/>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -29,8 +31,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
----
+<br/>
+<br/>
 
 ### 📺 Contact Me
 
