@@ -3,25 +3,26 @@
 <br/>
 <br/>
 
-- ✍️ I’m a **Software Engineer**
-- 🔭 I’m currently working on **Nodejs** and **Mongodb**.
-- 💡 I like to explore new technologies and develop software solutions.
-- 🎓 I’m currently studying Computer Science at the **Işık university in Istanbul Turkey**.
-- ✉️ You can send me an email at muhammeddilmacc@gmail.com ! I'll try to respond as soon as I can.
-- 📄 Please have a look at my [Resume](https://drive.google.com/file/) for more details about me. I'm open to feedback and suggestions!
+-  I’m a **Software Engineer**
+-  I’m currently working on **Nodejs** and **Mongodb**.
+-  I like to explore new technologies and develop software solutions.
+-  I’m currently studying Computer Science at the **Işık university in Istanbul Turkey**.
+-  You can send me an email at muhammeddilmacc@gmail.com ! I'll try to respond as soon as I can.
+-  Please have a look at my [Resume](https://drive.google.com/file/) for more details about me. I'm open to feedback and suggestions!
 
 <br/>
 <br/>
 
-### 🚀 &nbsp;Languages and Tools:
+### &nbsp;Languages and Tools:
 <p align="left">
 
 
-![Java](https://custom-icon-badges.herokuapp.com/badge/Java-000.svg?style=plastic&logo=java&logoColor=007396)
-![MYSQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?&style=plastic&logo=database&logoColor=025E8C)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![RestAPI](https://img.shields.io/badge/-RestAPI-05122A?style=flat&logo=RestAPI)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -34,7 +35,7 @@
 <br/>
 <br/>
 
-### Get Contact
+### Get Contact:
 <p align="left">
 
 <a href="https://twitter.com/muhammeddilmacc"><img width="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"/></a>&ensp;&ensp;
