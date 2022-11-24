@@ -48,6 +48,9 @@
 </a>&ensp;&ensp;
 
 
+
+<!-- Most used tachnologies end information table. -->
+<!-- 
 <div style="display:flex;align-items:center;">
   <a href="https://github.com/muhammeddilmacc?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=muhammeddilmacc&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" />
@@ -55,4 +58,4 @@
   <a href="https://github.com/muhammeddilmacc?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammeddilmacc&show_icons=true&theme=material-palenight&hide_border=true&layout=compact" />
   </a>
-</div>
+</div> -->
