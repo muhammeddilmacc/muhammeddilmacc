@@ -4,7 +4,8 @@
 <br/>
 
 I’m a **Software Engineer** living in Ankara, Turkey.<br/>
-I’ve been studying Computer Science at the **Işık university in Istanbul Turkey**. I like to explore new technologies and develop software solutions.<br/>
+I’ve been studying Computer Science at the **Işık university in Istanbul Turkey**.<br/>
+I like to explore new technologies and develop software solutions.<br/>
 I love working on **Nodejs** and **typescript**. <br/>
 You can send me an email at muhammeddilmacc@gmail.com ! I'll try to respond as soon as I can.<br/>
 Please have a look at my [Resume](https://docs.google.com/document/d/1u78PmE4o3dkzCFYOLNN3HB2BRo1FaZNRPSpImbHKWIc/) for more details about me. I'm open to feedback and suggestions!<br/>
